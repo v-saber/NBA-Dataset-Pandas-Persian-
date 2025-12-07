@@ -1,1 +1,1 @@
-This is one of the questions from a competition on the Quera website, which I participated in. The dataset was about the NBA from 2000 to 2009, and the competitors were asked to solve 3 problems around the information inside the dataset.
+This is one of the questions from a competition on the [Quera website](https://quera.org/contest/assignments/71221/problems/250597), which I participated in. The dataset was about the NBA from 2000 to 2009, and the competitors were asked to solve 3 problems around the information inside the dataset.
